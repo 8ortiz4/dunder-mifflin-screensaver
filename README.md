@@ -11,14 +11,14 @@ macOS Ventura or later.
 ## Installation
 
 To install the screensaver, follow these steps:
-1. Download the **dunder-mifflin-screensaver.zip** file from the repository.
+1. Download the **dunder-mifflin-screensaver-macos-1.0.0.zip** file from the repository.
 2. Double-click the downloaded file to extract the **dunder-mifflin-screensaver.saver** file.
 3. Double-click the extracted file and follow the instructions.
 
 ## Security
 
 I take the security of my files seriously. To ensure the integrity of the downloaded file, you can verify its SHA-256 checksum:
-- dunder-mifflin-screensaver.zip: c13eebf4b90f754af4c765341ba36a1d42485342f2df49358a3aab43361295b7.
+- dunder-mifflin-screensaver-macos-1.0.0.zip: c13eebf4b90f754af4c765341ba36a1d42485342f2df49358a3aab43361295b7.
 
 ## License
 
