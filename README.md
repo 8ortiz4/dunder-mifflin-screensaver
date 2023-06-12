@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/lang-en-brightgreen)
+[![](https://img.shields.io/badge/lang-en-brightgreen)](https://github.com/8ortiz4/dunder-mifflin-screensaver/blob/main/README.md)
 [![](https://img.shields.io/badge/lang-es-informational)](https://github.com/8ortiz4/dunder-mifflin-screensaver/blob/main/README-es.md)
 
 # Dunder Mifflin Screensaver
