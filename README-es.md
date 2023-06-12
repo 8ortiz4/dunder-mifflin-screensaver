@@ -1,3 +1,6 @@
+[![](https://img.shields.io/badge/lang-en-informational)](https://github.com/8ortiz4/dunder-mifflin-screensaver/blob/8e27405dbc49844a53eb1680bf7a543af18875b2/README.md)
+[![](https://img.shields.io/badge/lang-es-brightgreen)](#)
+
 # Salvapantallas de Dunder Mifflin
 
 Recreación del famoso salvapantallas de la serie de televisión *The Office*. Incorpora el icónico distintivo de Dunder Mifflin, la empresa papelera ficticia de la serie, moviéndose suavemente por tu pantalla. Revive los mejores recuerdos de la serie mientras tu pantalla descansa.
