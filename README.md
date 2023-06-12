@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/platform-macos-brightgreen)](https://github.com/8ortiz4/dunder-mifflin-screensaver/blob/main/README.md#system-requirements)
 
-[![](https://img.shields.io/github/v/release/8ortiz4/dunder-mifflin-screensaver)](https://github.com/8ortiz4/dunder-mifflin-screensaver/releases/latest)
+[![](https://img.shields.io/github/v/release/8ortiz4/dunder-mifflin-screensaver?color=informational)](https://github.com/8ortiz4/dunder-mifflin-screensaver/releases/latest)
 
 # Dunder Mifflin Screensaver
 
