@@ -1,6 +1,8 @@
 [![](https://img.shields.io/badge/lang-en-brightgreen)](https://github.com/8ortiz4/dunder-mifflin-screensaver/blob/main/README.md)
 [![](https://img.shields.io/badge/lang-es-informational)](https://github.com/8ortiz4/dunder-mifflin-screensaver/blob/main/README-es.md)
 
+[![](https://img.shields.io/badge/platform-macos-brightgreen)](https://github.com/8ortiz4/dunder-mifflin-screensaver/blob/main/README.md#system-requirements)
+
 # Dunder Mifflin Screensaver
 
 Recreation of the famous screensaver from the TV series 'The Office'. Features the iconic Dunder Mifflin logo, the fictional paper company from the show, smoothly moving across your screen. Relive the best memories of the series while your screen takes a rest.
