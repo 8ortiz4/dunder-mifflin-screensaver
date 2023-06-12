@@ -1,5 +1,5 @@
 [![](https://img.shields.io/badge/lang-en-informational)](https://github.com/8ortiz4/dunder-mifflin-screensaver/blob/main/README.md)
-![](https://img.shields.io/badge/lang-es-brightgreen)
+[![](https://img.shields.io/badge/lang-es-brightgreen)](https://github.com/8ortiz4/dunder-mifflin-screensaver/blob/main/README-es.md)
 
 # Salvapantallas de Dunder Mifflin
 
